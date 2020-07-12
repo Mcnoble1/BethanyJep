@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Bethany here, I like to teach, design and code.
+Bethany here, I teach, design and code.
 
 Currently I am a program assistant at Andela and a Microsoft Student Partner(MSP). 
 
