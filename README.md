@@ -26,9 +26,8 @@ I’m currently learning 🌱
 * Data Viz
 * Google Cloud Platform
 
-How to reach me:📫 
 
-Find me on [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/jepcreates/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) [Dribbble](https://dribbble.com/InnCreate)
+Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/jepcreates/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) [Dribbble](https://dribbble.com/InnCreate)
 
 😄 Pronouns: she/her
 
