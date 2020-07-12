@@ -12,7 +12,7 @@ Currently I am a program assistant at Andela and a Microsoft Student Partner(MSP
 
 I code in HTML, CSS, JavaScript (React) and Python for Data Science aiming to build meaningful products
 
-##I’m currently working on 🔭
+I’m currently working on 🔭
 
 * my own site
 * Baraka Flowers Web ordering system
@@ -20,13 +20,13 @@ I code in HTML, CSS, JavaScript (React) and Python for Data Science aiming to bu
 * And improving my UI/UX skills
 * Building the MSP Kenya community, especially *MSP Evolve*
 
-##I’m currently learning 🌱 
+I’m currently learning 🌱 
 
 * UI/UX
 * Data Viz
 * Google Cloud Platform
 
-##How to reach me:📫 
+How to reach me:📫 
 
 Find me on [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/jepcreates/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) [Dribbble](https://dribbble.com/InnCreate)
 
