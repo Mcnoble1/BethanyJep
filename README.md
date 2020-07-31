@@ -6,13 +6,14 @@
 Here are some ideas to get you started:
 -->
 
-Bethany here, I teach, design and code.
+2006 as the first time I landed in a computer class, but it wasn't until 2010 that I made my first card in MS Publisher that I was intrigued. Now, I organize events, teach, design and code.
 
 
 I’m currently working on 🔭
 
 * my own site
 * Baraka Flowers Web ordering system - UI/UX
+* Relearning & learning
 * DataViz project(s)
 * Building communities
 
