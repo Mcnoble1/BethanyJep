@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+recreating user stories, enhancing user experiences!
 
-Technology is a landmine I am trying to explore. Now, I organize events, teach, design and code.
-
-Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/jepcreates/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) [Dribbble](https://dribbble.com/InnCreate)
+Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/inncreator/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) 
 
 😄 Pronouns: she/her
 
