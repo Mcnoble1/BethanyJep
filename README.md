@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-recreating user stories, enhancing user experiences!
+recreating stories, enhancing experiences!
 
 Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/inncreator/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) 
 
