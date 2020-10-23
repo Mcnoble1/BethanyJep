@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 recreating stories, enhancing experiences!
 
-Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Instagram](https://www.instagram.com/inncreator/) [Behance](https://www.behance.net/inncreator) [Github](https://github.com/BethanyJep) [LinkedIn](https://www.linkedin.com/in/bethany-jep/) 
+Find me on📫 [Twitter](https://twitter.com/BethanyJep) [Behance](https://www.behance.net/bethanyjep)  [LinkedIn](https://www.linkedin.com/in/bethany-jep/) 
 
 😄 Pronouns: she/her
 
