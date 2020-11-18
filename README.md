@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 Call me Bethany J. or Pikachu. 
 I [design](https://www.behance.net/BethanyJep), build products using [code](https://github.com/BethanyJep), organize events and [blog](https://bethanyjep.live/). 
 
-😄 Pronouns: she/her
 
-
-Muchas gracias por visitar mi perfil. 
+😄 Muchas gracias por visitar mi perfil. 
 
 
 
