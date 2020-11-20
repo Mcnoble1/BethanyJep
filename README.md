@@ -3,6 +3,7 @@
 <!--
 **BethanyJep/BethanyJep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Bethany's github stats](https://github-readme-stats.vercel.app/api?username=bethanyjep)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 -->
 [![Header](https://github.com/BethanyJep/100DaysOfDesign/blob/master/github-header-final.png "Header")](https://bethanyjep.live/)
@@ -23,7 +24,6 @@ My focus is on UI/UX Design and Data Science, ocassionally I dive into frontend.
 I [design](https://www.behance.net/BethanyJep), build products using [code](https://github.com/BethanyJep), organize events and [blog](https://bethanyjep.live/). 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
 😄 Muchas gracias por visitar mi perfil. 
 
 
