@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 Call me Bethany J. or Pikachu. 
 
 My focus is on Data Science and UI/UX Design, ocassionally I explore Azure (apparently the cloud is not just that thing in the sky). Exploring is my jam and get lost in books, am open for any recommendations!
-Usually I, [design](https://www.behance.net/BethanyJep), find insighhts from [data](https://github.com/BethanyJep) and train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
+
+I, [design](https://www.behance.net/BethanyJep) and sometimes post [shots](https://dribbble.com/InnCreate), find insighhts from [data](https://github.com/BethanyJep) and train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
 
 ### 👩‍💻!, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
-yeah, python got me bad :), currently exploring flask and django to deploy my models.
+
+(yeah, python got me bad :), currently exploring flask and django to deploy my models.)
 
 😄 Muchas gracias por visitar mi perfil. 
 
