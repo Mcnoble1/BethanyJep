@@ -4,6 +4,7 @@
 **BethanyJep/BethanyJep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Bethany's github stats](https://github-readme-stats.vercel.app/api?username=bethanyjep)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
+[![Bethany's github stats](https://github-readme-stats.vercel.app/api?username=bethanyjep)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 -->
 [![Header](https://github.com/BethanyJep/100DaysOfDesign/blob/master/github-header-final.png "Header")](https://bethanyjep.live/)
@@ -23,8 +24,8 @@ My focus is on Data Science and UI/UX Design, ocassionally I explore Azure (appa
 Usually I, [design](https://www.behance.net/BethanyJep), find insighhts from [data](https://github.com/BethanyJep) and train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
 
 ### 👩‍💻!, 
-[![Bethany's github stats](https://github-readme-stats.vercel.app/api?username=bethanyjep)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
+yeah, python got me bad :), currently exploring flask and django to deploy my models.
 
 😄 Muchas gracias por visitar mi perfil. 
 
