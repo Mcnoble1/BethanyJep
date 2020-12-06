@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 ### Hola!👋, 
 Call me Bethany J. or Pikachu. 
 
-My focus is on UI/UX Design and Data Science, ocassionally I dive into frontend. Learning is my jam and reading, am open for any good reads recommendation!
+My focus is on Data Science and UI/UX Design, ocassionally I explore Azure (apparently the cloud is not just that thing in the sky). Exploring is my jam and get lost in books, am open for any recommendations!
+Usually I, [design](https://www.behance.net/BethanyJep), find insighhts from [data](https://github.com/BethanyJep) and train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
 
-I [design](https://www.behance.net/BethanyJep), build products using [code](https://github.com/BethanyJep), organize events and [blog](https://bethanyjep.live/). 
-
+### 👩‍💻!, 
+[![Bethany's github stats](https://github-readme-stats.vercel.app/api?username=bethanyjep)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
 
 😄 Muchas gracias por visitar mi perfil. 
 
