@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hola!👋, 
 Call me Bethany J. or Pikachu. 
 
-My focus is on Data Science and UI/UX Design, ocassionally I explore Azure (apparently the cloud is not just that thing in the sky). Exploring is my jam and get lost in books, am open for any recommendations!
+My focus is on Data Science, a keen interest in NLP, and UI/UX Design, ocassionally I explore Azure (apparently the cloud is not just that thing in the sky). Exploring is my jam and get lost in books, am open for any recommendations!
 
 I, [design](https://www.behance.net/BethanyJep) and sometimes post [shots](https://dribbble.com/InnCreate), find insighhts from [data](https://github.com/BethanyJep) and train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
 
