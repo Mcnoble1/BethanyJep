@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 ### Hola!👋, 
 
-My focus is on Data Science, a keen interest in NLP, and UI/UX Design, ocassionally I explore Azure (apparently the cloud is not just that thing in the sky). 
+I, [design](https://www.notion.so/inncreators/UI-UX-Design-Portfolio-b89755d53d894ab09893fb3ee2fadc0f) and sometimes post [design shots](https://dribbble.com/InnCreate), find insighhts from [data](https://github.com/BethanyJep), train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
 
-I, [design](https://www.behance.net/BethanyJep) and sometimes post [design shots](https://dribbble.com/InnCreate), find insighhts from [data](https://github.com/BethanyJep), train models, organize [events](https://www.meetup.com/MS-Ambassadors-KE/) and [blog](https://bethanyjep.live/).
+Currently learning Django and navigating my way through tech-communities, working in the start-up ecosystem and a couple cloud certifications.
 
-Exploring is my jam and am currently navigating my way through tech-communities, working in the start-up ecosystem and a couple cloud certifications.
+Hit me up on anything leadership, productivity, education, data and design.
 
-Hit me up on anything productivity, education, data and design.
+Find me @bethanyjep everywhere :-)
 
 😄 Muchas gracias por visitar mi perfil. 
 
