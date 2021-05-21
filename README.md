@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BethanyJep)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Hola 😃, 
+## Jambo 👋, 
 Thanks for stumbling here 😊.
 
 Am a UI/UX designer, who enjoys playing with data and is constantly learning. 
