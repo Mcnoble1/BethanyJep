@@ -17,5 +17,8 @@ Thanks for stumbling here 😊.
 Am a UI/UX designer, who enjoys playing with data and is constantly learning. 
 
 [Online Blog](https://bethanyjep.live/) 👩‍💻!
+[Timeline - coming soon](changelog.bethanyjep.live) ⏲️
+[Designs - coming soon](playbook.com/bethanyjep) 🖌️
+[Portfolio - work under wraps 😄]()
 
 
