@@ -18,7 +18,8 @@ Am a UI/UX designer, who enjoys playing with data and is constantly learning.
 
 [Online Blog](https://bethanyjep.live/) 👩‍💻!
 [Timeline](https://changelog.bethanyjep.live/) ⏲️
-[Designs - coming soon]() 🖌️
+[Product Design Visuals](https://www.playbook.com/s/bethanyjep/TGUwLjE9ooGeRKhx5QR5zS3E/SeGMfRB5FYin21gwH3b1d2XW) 🖌️
+[Graphic Designs](https://www.playbook.com/s/bethanyjep/NKaaByixFTMArRbpJoprsWXV/R14uR6WfWSueQKxvw3KCgAra) 🖌️
 [Portfolio - coming soon 😄]()
 
 
