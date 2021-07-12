@@ -22,4 +22,5 @@ Am a UI/UX designer, who enjoys playing with data and is constantly learning.
 [Graphic Designs](https://www.playbook.com/s/bethanyjep/NKaaByixFTMArRbpJoprsWXV/R14uR6WfWSueQKxvw3KCgAra) 🖌️
 [Portfolio - coming soon 😄]()
 
+![](https://komarev.com/ghpvc/?username=BethanyJep&color=blue)
 
