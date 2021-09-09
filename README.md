@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## Jambo 👋, 
 Thanks for stumbling here 😊.
 
-Am a tech explorer, who enjoys designing digital interfaces, playing with data, build tech communities and is constantly learning. 
+Am a tech explorer, who enjoys designing digital interfaces, playing with data, building tech communities and is constantly learning. 
 
 [Timeline](https://changelog.bethanyjep.live/) ⏲️
 [Online Blog](https://bethanyjep.live/) 👩‍💻!
