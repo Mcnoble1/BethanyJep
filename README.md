@@ -16,11 +16,11 @@ Thanks for stumbling here 😊.
 
 Am a tech explorer, who enjoys designing digital interfaces, playing with data, building tech communities and is constantly learning. 
 
-[Timeline](https://changelog.bethanyjep.live/) ⏲️
-[Online Blog](https://bethanyjep.live/) 👩‍💻!
+[Timeline](https://www.polywork.com/bethanyjep) ⏲️
+[Online Blog](https://bethanyjep.com/) 👩‍💻!
 [Product Design Visuals](https://www.playbook.com/s/bethanyjep/TGUwLjE9ooGeRKhx5QR5zS3E/SeGMfRB5FYin21gwH3b1d2XW) 🖌️
 [Graphic Designs](https://www.playbook.com/s/bethanyjep/NKaaByixFTMArRbpJoprsWXV/R14uR6WfWSueQKxvw3KCgAra) 🖌️
-[Portfolio - coming soon 😄]()
+Portfolio - coming soon 😄
 
 ![](https://komarev.com/ghpvc/?username=BethanyJep&color=blue)
 
