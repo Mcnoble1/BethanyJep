@@ -24,5 +24,3 @@ Portfolio - coming soon 😄
 
 ![](https://komarev.com/ghpvc/?username=BethanyJep&color=blue)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethanyjep" alt="bethanyjep streak stats" /></p>
-
